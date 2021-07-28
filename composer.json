@@ -1,0 +1,16 @@
+{
+    "name": "larasync/aliexpress",
+    "authors": [
+        {
+            "name": "Aissa Aouli",
+            "email": "aissa.aouli@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Larasync\\Aliexpress\\": "src/"
+        },
+	"files": ["src/TopSdk.php"]
+    },
+    "require": {}
+}
